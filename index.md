@@ -7,14 +7,14 @@ Predicting the cultivar in an image is an especially good challenge problem for 
 
 # Data
 
-Check back!
+The training and testing dataset can be downloaded from [https://cs.slu.edu/~astylianou/sorghum100/data.zip](https://cs.slu.edu/~astylianou/sorghum100/data.zip), or accessed via [the FGVC9 Kaggle Competition](https://www.kaggle.com/c/sorghum-100).
 
 # Baseline
 
 Check back!
 
 # FGVC-9 Kaggle Competition
-The original Sorghum-100 dataset paper was published in the 8th Fine-Grained Visual Categorization Workshop (FGVC) at CVPR 2021. We then hosted a FGVC competition on Sorghum-100 through FGVC in 2022. That competition has closed, but can still be accessed at https://www.kaggle.com/c/sorghum-100.
+The original Sorghum-100 dataset paper was published in the 8th Fine-Grained Visual Categorization Workshop (FGVC) at CVPR 2021. We then hosted a FGVC competition on Sorghum-100 through FGVC in 2022. That competition has closed, but can still be accessed at [https://www.kaggle.com/c/sorghum-100](https://www.kaggle.com/c/sorghum-100).
 
 # Citation
 If you use this code for your research, please cite the following work:
