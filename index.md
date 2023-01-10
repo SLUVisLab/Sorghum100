@@ -23,7 +23,7 @@ If you use this code for your research, please cite the following work:
 author = {Dulay, Justin and Chao, Ren and Rolwes, Greg and Stylianou, Abby},
 year = {2021},
 month = {June},
-title = {{The Sorghum-100 Dataset - FGVC8}},
+title = {The Sorghum-100 Dataset},
 booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Fine-Grained Visual Categorization Workshop}
 }
 ```
