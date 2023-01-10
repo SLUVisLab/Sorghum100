@@ -7,7 +7,7 @@ Predicting the cultivar in an image is an especially good challenge problem for 
 
 # Data
 
-The training and testing dataset can be downloaded from [https://cs.slu.edu/~astylianou/sorghum100/data.zip](https://cs.slu.edu/~astylianou/sorghum100/data.zip), or accessed via [the FGVC9 Kaggle Competition](https://www.kaggle.com/c/sorghum-100).
+The training and testing dataset (including test data labels) can be downloaded from [https://cs.slu.edu/~astylianou/sorghum100/data.zip](https://cs.slu.edu/~astylianou/sorghum100/data.zip).
 
 # Baseline
 
