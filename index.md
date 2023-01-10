@@ -19,11 +19,11 @@ The original Sorghum-100 dataset paper was published in the 8th Fine-Grained Vis
 # Citation
 If you use this code for your research, please cite the following work:
 ```
-@inproceedings{sorghum100,
-author = {Dulay, Justin and Chao, Ren and Rolwes, Greg and Stylianou, Abby},
-year = {2021},
-month = {June},
-title = {The Sorghum-100 Dataset},
-booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Fine-Grained Visual Categorization Workshop}
+@inproceedings{ren2021multi,
+  title={Multi-resolution outlier pooling for sorghum classification},
+  author={Ren, Chao and Dulay, Justin and Rolwes, Gregory and Pauli, Duke and Shakoor, Nadia and Stylianou, Abby},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2931--2939},
+  year={2021}
 }
 ```
