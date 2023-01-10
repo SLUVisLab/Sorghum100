@@ -2,6 +2,7 @@ The Sorghum-100 dataset is a curated subset of the RGB imagery captured during t
 
 <p style="text-align: center;"><img src="https://terraref.org/sites/terraref.org/files/TERRA-REF-Scanner.jpg" width="550px"/></p>
 
+
 Predicting the cultivar in an image is an especially good challenge problem for familiarizing the machine learning community with the TERRA-REF data. At first blush, the task of predicting the cultivar from an image of a plant may not seem to be the most biologically compelling question to answer -- in the context of plant breeding, the cultivar, or parental lines are typically known. A high accuracy machine learning predictor of the species captured by the sensor data, however, can be used to determine where errors in the planting process may have occurred. For example, seed may be mislabeled prior to planting, or planters may get jammed, depositing seeds non-uniformly in a field. Both types of errors are surprisingly common and can cause major problems when processing data from large-scale field experiments with hundreds of cultivars and complex field planting layouts.
 
 # Data
