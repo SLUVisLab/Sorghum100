@@ -11,10 +11,10 @@ The training and testing dataset (including test data labels) can be downloaded 
 
 # Baseline
 
-Check back!
+To provide a reasonable baseline on the Sorghum-100 dataset, we trained a ResNet-50 model (pre-trained on ImageNet). During training we resize the original images to be 512 pixels on its shortest side, and then take a random 512 × 512 crop (at test time, we take a center crop). We normalize by channel means and standard deviations and perform random horizontal and vertical flips. We use global average pooling and train with cross entropy loss. This baseline approach achieves 72.12% top-1 classification accuracy on the test set. This simple baseline can be found in [this notebook](https://github.com/SLUVisLab/Sorghum100/blob/main/resnet50_baseline.ipynb).
 
 # FGVC-9 Kaggle Competition
-The original Sorghum-100 dataset paper was published in the 8th Fine-Grained Visual Categorization Workshop (FGVC) at CVPR 2021. We then hosted a FGVC competition on Sorghum-100 through FGVC in 2022. That competition has closed, but can still be accessed at [https://www.kaggle.com/c/sorghum-100](https://www.kaggle.com/c/sorghum-100).
+The original Sorghum-100 dataset paper was published in the 8th Fine-Grained Visual Categorization Workshop (FGVC) at CVPR 2021. We hosted a FGVC competition on Sorghum-100 through FGVC in 2022. That competition has closed, but can still be accessed at [https://www.kaggle.com/c/sorghum-100](https://www.kaggle.com/c/sorghum-100).
 
 # Citation
 If you use this code for your research, please cite the following work:
